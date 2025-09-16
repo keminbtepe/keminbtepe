@@ -8,9 +8,9 @@
 Akademik olarak edindiğim bilgi birikimini, yazılım geliştirme ve veri bilimi alanındaki projelerimle birleştiriyorum.
 ## Contact Me
 <p>
-  <a href="www.linkedin.com/in/keminbesiktepe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="kursatbesiktepe.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> 
-  <a href="instalink" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+  <a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kursatbesiktepe.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> 
+  <a href="https://www.instagram.com/kbbb" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
 
 ## Skills
