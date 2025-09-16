@@ -13,20 +13,23 @@ Akademik olarak edindiğim bilgi birikimini, yazılım geliştirme ve veri bilim
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://www.theanalysisfactor.com/wp-content/uploads/2022/09/SPSS-blog.png" alt="spss" width="40" height="40"/>&nbsp;
-<img src="https://images.seeklogo.com/logo-png/43/1/r-studio-logo-png_seeklogo-431724.png" alt="r studio" width="40" height="40"/>&nbsp;
+<img src="https://amador.edu.do/wp-content/uploads/2020/11/rstudio.png" alt="r studio" width="40" height="40"/>&nbsp;
+<img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="C#" width="40" height="40"/>&nbsp;
+
+  
 </p>
 
 ## Projects
 
 ### Bilcoin
 
-Lise projem, küçük bir masaüstü bilmece oyun projesi.
+Küçük bir masaüstü bilmece oyun projesi.
 
 ---
 
 ### Otobüs Bilet Satış Ve Rezervasyon Otomasyonu
 
-acıklama
+C# ve SQL server kullanarak tur şirketleri ve müşteriler aynı otomasyon üzerinden bilet satın alma ve rezervasyon işlemlerini yapıp koltuklarını seçebilmektedir
 
 ---
 
@@ -36,7 +39,7 @@ acıklama
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keminbtepe&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keminbtepe&theme=tokyonight" alt="GitHub Streak" />
+
 
 ## GitHub Activity Graph
 
