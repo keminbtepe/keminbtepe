@@ -43,6 +43,10 @@ C# ve SQL server kullanarak tur şirketleri ve müşteriler aynı otomasyon üze
 
 ## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=keminbtepe&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keminbtepe&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
 
 
 
