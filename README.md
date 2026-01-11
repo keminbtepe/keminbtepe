@@ -1,60 +1,110 @@
+<div align="center">
+  <a href="#english">🇺🇸 English</a>
+  <span> | </span>
+  <a href="#turkish">🇹🇷 Türkçe</a>
+</div>
 
+<br />
 
+<div id="english" align="center">
 
-# Hello 👋, I'm kemnbsktp 
+# Hi there, I'm Kürşat! 👋
 
-### Data Scientist
-
-Akademik olarak edindiğim bilgi birikimini, yazılım geliştirme ve veri bilimi alanındaki projelerimle birleştiriyorum.
-## Contact Me
-<p>
-  <a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://kursatbesiktepe.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> 
-</p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://www.theanalysisfactor.com/wp-content/uploads/2022/09/SPSS-blog.png" alt="spss" width="40" height="40"/>&nbsp;
-<img src="https://amador.edu.do/wp-content/uploads/2020/11/rstudio.png" alt="r studio" width="40" height="40"/>&nbsp;
-<img src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://i.pinimg.com/736x/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.jpg" alt="SQL" width="40" height="40"/>&nbsp;
-
-
-  
-</p>
-
-## Projects
-
-### Bilcoin
-
-Küçük bir masaüstü bilmece oyun projesi.
+I am a **Data Science Student** passionate about software development. I actively use backend technologies and statistical analysis tools to build meaningful projects.
 
 ---
 
-### Otobüs Bilet Satış Ve Rezervasyon Otomasyonu
+### 🛠️ Languages & Tools
 
-C# ve SQL server kullanarak tur şirketleri ve müşteriler aynı otomasyon üzerinden bilet satın alma ve rezervasyon işlemlerini yapıp koltuklarını seçebilmektedir
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
 
 ---
 
-## GitHub Stats
+### 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=keminbtepe&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+| Project Name | Description |
+| :--- | :--- |
+| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | A C# based interactive riddle and scoring system. |
+| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | A complete ticket sales/management system for bus companies. |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keminbtepe&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+---
 
+### 📫 Contact Me
 
+<a href="https://kursatbesiktepe.com" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-kursatbesiktepe.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<br />
+<a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
-## GitHub Activity Graph
+<br />
+<br />
+<div align="center">
+  <h2>🇹🇷 🇹🇷 🇹🇷</h2>
+</div>
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keminbtepe&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+<div id="turkish" align="center">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=keminbtepe&color=blue" alt="Profile Views" />
-</p>
+# Merhaba, Ben Kürşat! 👋
 
+Ben bir **Veri Bilimi Öğrencisiyim**. Yazılım geliştirme ve istatistiksel analiz konularına ilgi duyuyorum. Projelerimde hem backend teknolojilerini hem de veri analizi araçlarını aktif olarak kullanıyorum.
+
+---
+
+### 🛠️ Yetenekler ve Teknolojiler
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+| Proje Adı | Açıklama |
+| :--- | :--- |
+| **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# ile geliştirilmiş, puanlama sistemli bilmece uygulaması. |
+| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Otobüs firmaları için bilet satış ve yönetim otomasyonu. |
+
+---
+
+### 📫 İletişim
+
+<a href="https://kursatbesiktepe.com" target="_blank">
+  <img src="https://img.shields.io/badge/Websitesi-kursatbesiktepe.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<br />
+<a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keminbtepe&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=keminbtepe&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+
+</div>
