@@ -32,8 +32,9 @@ I am a **Data Science Student** passionate about software development. I activel
 
 | Project Name | Description |
 | :--- | :--- |
-| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | A C# based interactive riddle and scoring system. |
-| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | A complete ticket sales/management system for bus companies. |
+| **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
+| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# based interactive riddle and scoring system. |
+| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Complete ticket sales/management system for bus companies. |
 
 ---
 
@@ -82,6 +83,7 @@ Ben bir **Veri Bilimi Öğrencisiyim**. Yazılım geliştirme ve istatistiksel a
 
 | Proje Adı | Açıklama |
 | :--- | :--- |
+| **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
 | **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# ile geliştirilmiş, puanlama sistemli bilmece uygulaması. |
 | **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Otobüs firmaları için bilet satış ve yönetim otomasyonu. |
 
