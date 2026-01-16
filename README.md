@@ -10,7 +10,7 @@
 
 # Hi there, I'm Kürşat! 👋
 
-I am a **Data Science Student** passionate about software development. I actively use backend technologies and statistical analysis tools to build meaningful projects.
+I am a **Data Science & Statistics Graduate** passionate about software development. I actively use backend technologies and statistical analysis tools to build meaningful projects.
 
 ---
 
@@ -33,8 +33,10 @@ I am a **Data Science Student** passionate about software development. I activel
 | Project Name | Description |
 | :--- | :--- |
 | **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
+| **[🐍 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | Python scripts, algorithms, and data structures practice. |
+| **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | Advanced SQL queries and database management exercises. |
+| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Complete ticket sales/management system using SQL & C#. |
 | **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# based interactive riddle and scoring system. |
-| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Complete ticket sales/management system for bus companies. |
 
 ---
 
@@ -61,7 +63,7 @@ I am a **Data Science Student** passionate about software development. I activel
 
 # Merhaba, Ben Kürşat! 👋
 
-Ben bir **Veri Bilimi Öğrencisiyim**. Yazılım geliştirme ve istatistiksel analiz konularına ilgi duyuyorum. Projelerimde hem backend teknolojilerini hem de veri analizi araçlarını aktif olarak kullanıyorum.
+Ben bir **Veri Bilimi ve İstatistik Mezunuyum**. Yazılım geliştirme ve istatistiksel analiz konularına ilgi duyuyorum. Projelerimde hem backend teknolojilerini hem de veri analizi araçlarını aktif olarak kullanıyorum.
 
 ---
 
@@ -84,8 +86,10 @@ Ben bir **Veri Bilimi Öğrencisiyim**. Yazılım geliştirme ve istatistiksel a
 | Proje Adı | Açıklama |
 | :--- | :--- |
 | **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
+| **[🐍 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | Python senaryoları, algoritmalar ve veri yapıları çalışmaları. |
+| **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | İleri seviye SQL sorguları ve veritabanı yönetimi egzersizleri. |
+| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | SQL ve C# kullanılarak geliştirilen bilet satış yönetim sistemi. |
 | **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# ile geliştirilmiş, puanlama sistemli bilmece uygulaması. |
-| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Otobüs firmaları için bilet satış ve yönetim otomasyonu. |
 
 ---
 
