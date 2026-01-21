@@ -62,6 +62,7 @@ I am a **Data Science & Statistics Graduate** passionate about software developm
 <br />
 
 <div id="turkish" align="center">
+<h3>🌐 <a href="https://kursatbesiktepe.com.tr" target="_blank">kursatbesiktepe.com.tr</a></h3>
 
 # Merhaba, Ben Kürşat! 👋
 
