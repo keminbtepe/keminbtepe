@@ -35,6 +35,7 @@ I am a **Data Science & Statistics Graduate** passionate about software developm
 | Project Name | Description |
 | :--- | :--- |
 | **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
+| **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | Order management and analysis system built with ASP.NET Core & EF Core. |
 | **[🐍 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | Python scripts, algorithms, and data structures practice. |
 | **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | Advanced SQL queries and database management exercises. |
 | **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Complete ticket sales/management system using SQL & C#. |
@@ -44,9 +45,7 @@ I am a **Data Science & Statistics Graduate** passionate about software developm
 
 ### 📫 Contact Me
 
-<a href="https://kursatbesiktepe.com" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-kursatbesiktepe.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+
 <br />
 <a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -89,6 +88,7 @@ Ben bir **Veri Bilimi ve İstatistik Mezunuyum**. Yazılım geliştirme ve istat
 | Proje Adı | Açıklama |
 | :--- | :--- |
 | **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
+| **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | ASP.NET Core ve EF Core ile geliştirilen sipariş yönetim ve analiz sistemi. |
 | **[🐍 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | Python senaryoları, algoritmalar ve veri yapıları çalışmaları. |
 | **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | İleri seviye SQL sorguları ve veritabanı yönetimi egzersizleri. |
 | **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | SQL ve C# kullanılarak geliştirilen bilet satış yönetim sistemi. |
@@ -98,9 +98,7 @@ Ben bir **Veri Bilimi ve İstatistik Mezunuyum**. Yazılım geliştirme ve istat
 
 ### 📫 İletişim
 
-<a href="https://kursatbesiktepe.com" target="_blank">
-  <img src="https://img.shields.io/badge/Websitesi-kursatbesiktepe.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+
 <br />
 <a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
