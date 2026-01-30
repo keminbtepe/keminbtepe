@@ -34,6 +34,7 @@ I am a **Data Science & Statistics Graduate** passionate about software developm
 
 | Project Name | Description |
 | :--- | :--- |
+| **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | End-to-end credit risk prediction system using SQL Server (ETL) and Python (Machine Learning). |
 | **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
 | **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | Order management and analysis system built with ASP.NET Core & EF Core. |
 | **[🐍 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | Python scripts, algorithms, and data structures practice. |
@@ -87,6 +88,7 @@ Ben bir **Veri Bilimi ve İstatistik Mezunuyum**. Yazılım geliştirme ve istat
 
 | Proje Adı | Açıklama |
 | :--- | :--- |
+| **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | SQL Server (ETL) ve Python (Makine Öğrenmesi) kullanılarak geliştirilen uçtan uca kredi risk tahmin sistemi. |
 | **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
 | **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | ASP.NET Core ve EF Core ile geliştirilen sipariş yönetim ve analiz sistemi. |
 | **[🐍 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | Python senaryoları, algoritmalar ve veri yapıları çalışmaları. |
