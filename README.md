@@ -12,7 +12,6 @@
 
 # Hi there, I'm Kürşat! 👋
 
-I am a **Data Science & Statistics Graduate** passionate about software development. I actively use backend technologies and statistical analysis tools to build meaningful projects.
 
 ---
 
@@ -66,7 +65,7 @@ I am a **Data Science & Statistics Graduate** passionate about software developm
 
 # Merhaba, Ben Kürşat! 👋
 
-Ben bir **Veri Bilimi ve İstatistik Mezunuyum**. Yazılım geliştirme ve istatistiksel analiz konularına ilgi duyuyorum. Projelerimde hem backend teknolojilerini hem de veri analizi araçlarını aktif olarak kullanıyorum.
+
 
 ---
 
