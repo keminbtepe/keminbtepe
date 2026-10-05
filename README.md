@@ -8,7 +8,6 @@
 
 <div id="english" align="center">
 
-<h3>🌐 <a href="https://kursatbesiktepe.com.tr" target="_blank">kursatbesiktepe.com.tr</a></h3>
 
 # Hi there, I'm Kürşat! 👋
 
@@ -59,7 +58,6 @@
 <br />
 
 <div id="turkish" align="center">
-<h3>🌐 <a href="https://kursatbesiktepe.com.tr" target="_blank">kursatbesiktepe.com.tr</a></h3>
 
 # Merhaba, Ben Kürşat! 👋
 
