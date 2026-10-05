@@ -47,9 +47,7 @@
 
 
 <br />
-<a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 
 </div>
 
@@ -101,9 +99,7 @@
 
 
 <br />
-<a href="https://www.linkedin.com/in/keminbesiktepe" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profilim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 
 ---
 
