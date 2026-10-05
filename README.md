@@ -32,7 +32,7 @@
 
 | Project Name | Description |
 | :--- | :--- |
-| **📚 KPSS ODAK** | My application project for KPSS exam preparation. Source code is private. |
+| **📚 KPSS ODAK** | 2026 · React Native · .NET · SQL Server |
 | **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | End-to-end credit risk prediction system using SQL Server (ETL) and Python (Machine Learning). |
 | **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
 | **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | Order management and analysis system built with ASP.NET Core & EF Core. |
@@ -84,7 +84,7 @@
 
 | Proje Adı | Açıklama |
 | :--- | :--- |
-| **📚 KPSS ODAK** | KPSS hazırlığına yönelik geliştirdiğim uygulama projesi. Kaynak kodu özel tutulmaktadır. |
+| **📚 KPSS ODAK** | 2026 · React Native · .NET · SQL Server |
 | **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | SQL Server (ETL) ve Python (Makine Öğrenmesi) kullanılarak geliştirilen uçtan uca kredi risk tahmin sistemi. |
 | **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
 | **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | ASP.NET Core ve EF Core ile geliştirilen sipariş yönetim ve analiz sistemi. |
