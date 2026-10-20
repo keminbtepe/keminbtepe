@@ -43,13 +43,13 @@
 
 ---
 
-Project dates are taken from [my portfolio](https://kursatbesiktepe.com.tr/). A dash means no date is listed there.
+
 
 ---
 
 ### 📫 Contact Me
 
-[Portfolio](https://kursatbesiktepe.com.tr/) · [Email](mailto:kursat.besiktepe@gmail.com)
+· [Email](mailto:kursat.besiktepe@gmail.com)
 
 <br />
 
@@ -100,13 +100,13 @@ Project dates are taken from [my portfolio](https://kursatbesiktepe.com.tr/). A 
 
 ---
 
-Proje tarihleri [portfolyo sayfamdan](https://kursatbesiktepe.com.tr/) alınmıştır. Sitede tarihi bulunmayan projeler “—” ile gösterilmiştir.
+
 
 ---
 
 ### 📫 İletişim
 
-[Portfolyo](https://kursatbesiktepe.com.tr/) · [E-posta](mailto:kursat.besiktepe@gmail.com)
+ · [E-posta](mailto:kursat.besiktepe@gmail.com)
 
 <br />
 
