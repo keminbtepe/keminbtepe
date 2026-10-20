@@ -30,21 +30,26 @@
 
 ### 🚀 Featured Projects
 
-| Project Name | Description |
-| :--- | :--- |
-| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | Mobile & web project · 2026 · React Native · .NET · SQL Server |
-| **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | End-to-end credit risk prediction system using SQL Server (ETL) and Python (Machine Learning). |
-| **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | Statistical analysis and hypothesis testing using SPSS. |
-| **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | Order management and analysis system built with ASP.NET Core & EF Core. |
-| **[🐍 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | Python scripts, algorithms, and data structures practice. |
-| **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | Advanced SQL queries and database management exercises. |
-| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | Complete ticket sales/management system using SQL & C#. |
-| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# based interactive riddle and scoring system. |
+| Project Name | Date | Description |
+| :--- | :---: | :--- |
+| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026-10-14 | Mobile & web project · React Native · .NET · SQL Server |
+| **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026-04-18 | End-to-end credit risk prediction system using SQL Server (ETL) and Python (Machine Learning). |
+| **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026-02-14 | Statistical analysis and hypothesis testing using SPSS. |
+| **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024-12-12 | Order management and analysis system built with ASP.NET Core & EF Core. |
+| **[🐍 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | — | Python scripts, algorithms, and data structures practice. |
+| **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | — | Advanced SQL queries and database management exercises. |
+| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019-05-15 | Complete ticket sales/management system using SQL & C#. |
+| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020-02-14 | C# based interactive riddle and scoring system. |
+
+---
+
+Project dates are taken from [my portfolio](https://kursatbesiktepe.com.tr/). A dash means no date is listed there.
 
 ---
 
 ### 📫 Contact Me
 
+[Portfolio](https://kursatbesiktepe.com.tr/) · [Email](mailto:kursat.besiktepe@gmail.com)
 
 <br />
 
@@ -54,7 +59,7 @@
 <br />
 <br />
 <div align="center">
-  <h2>🇹🇷 🇹🇷 🇹🇷</h2>
+  <h2>🇹🇷 Türkçe</h2>
 </div>
 <br />
 
@@ -82,30 +87,39 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-| Proje Adı | Açıklama |
-| :--- | :--- |
-| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | Mobil ve web projesi · 2026 · React Native · .NET · SQL Server |
-| **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | SQL Server (ETL) ve Python (Makine Öğrenmesi) kullanılarak geliştirilen uçtan uca kredi risk tahmin sistemi. |
-| **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
-| **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | ASP.NET Core ve EF Core ile geliştirilen sipariş yönetim ve analiz sistemi. |
-| **[🐍 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | Python senaryoları, algoritmalar ve veri yapıları çalışmaları. |
-| **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | İleri seviye SQL sorguları ve veritabanı yönetimi egzersizleri. |
-| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/OtobusBiletOtomasyonu)** | SQL ve C# kullanılarak geliştirilen bilet satış yönetim sistemi. |
-| **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/BilcoinBilmeceOtomasyonu)** | C# ile geliştirilmiş, puanlama sistemli bilmece uygulaması. |
+| Proje Adı | Tarih | Açıklama |
+| :--- | :---: | :--- |
+| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026-10-14 | Mobil ve web projesi · React Native · .NET · SQL Server |
+| **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026-04-18 | SQL Server (ETL) ve Python (Makine Öğrenmesi) kullanılarak geliştirilen uçtan uca kredi risk tahmin sistemi. |
+| **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026-02-14 | SPSS ile gerçekleştirilen istatistiksel analizler ve hipotez testleri. |
+| **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024-12-12 | ASP.NET Core ve EF Core ile geliştirilen sipariş yönetim ve analiz sistemi. |
+| **[🐍 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | — | Python senaryoları, algoritmalar ve veri yapıları çalışmaları. |
+| **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | — | İleri seviye SQL sorguları ve veritabanı yönetimi egzersizleri. |
+| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019-05-15 | SQL ve C# kullanılarak geliştirilen bilet satış yönetim sistemi. |
+| **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020-02-14 | C# ile geliştirilmiş, puanlama sistemli bilmece uygulaması. |
+
+---
+
+Proje tarihleri [portfolyo sayfamdan](https://kursatbesiktepe.com.tr/) alınmıştır. Sitede tarihi bulunmayan projeler “—” ile gösterilmiştir.
 
 ---
 
 ### 📫 İletişim
 
+[Portfolyo](https://kursatbesiktepe.com.tr/) · [E-posta](mailto:kursat.besiktepe@gmail.com)
 
 <br />
 
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Aktivitem / GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keminbtepe&theme=react-dark&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/keminbtepe?tab=overview">
+  <img src="https://ghchart.rshah.org/keminbtepe" alt="Son bir yıllık GitHub katkılarım / GitHub contributions over the last year" width="100%" />
+</a>
+
+[GitHub aktivitemi görüntüle / View my GitHub activity](https://github.com/keminbtepe?tab=overview)
 
 <br>
 
