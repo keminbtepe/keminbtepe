@@ -44,7 +44,7 @@ KPSS adayları, eğitmenler ve yöneticiler için mobil ve web istemcili sınav 
 
 - ASP.NET Core Web API, Clean Architecture, 33 controller ve 232 rota
 - Apple ve Google abonelik bildirimleri için imza doğrulamalı, idempotent webhook altyapısı
-- PDF'lerden 1.500+ sorunun yapay zekâ destekli ayıklanması, çözümü ve çapraz kontrolü
+- PDF'lerden 5000+ sorunun yapay zekâ destekli ayıklanması, çözümü ve çapraz kontrolü
 - Expo SDK 57 mobil uygulama: çevrimdışı önbellek, çalışma serisi, liderlik tablosu, hata havuzu
 - React 19 yönetim paneli: müfredat, soru bankası, abonelik, gelir analitiği ve denetim kaydı
 
