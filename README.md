@@ -1,76 +1,105 @@
-<!-- ───────────── HEADER ───────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,55:134E4A,100:14B8A6&text=K%C3%BCr%C5%9Fat%20Emin%20Be%C5%9Fiktepe&fontColor=E2E8F0&fontSize=44&fontAlignY=38&desc=AI%20automation%20%E2%80%A2%20software%20%E2%80%A2%20data%20science&descAlignY=60&descSize=17" alt="Kürşat Emin Beşiktepe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,55:134E4A,100:14B8A6&text=K%C3%BCr%C5%9Fat%20Emin%20Be%C5%9Fiktepe&fontColor=E2E8F0&fontSize=46&fontAlignY=45" alt="Kürşat Emin Beşiktepe" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Shipping+KPSS+ODAK+on+App+Store+%26+Google+Play;.NET+9+%2B+React+Native+%2B+SQL+Server;Statistics+%C3%97+Code+%C3%97+AI+agents;Automating+the+boring+parts" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=KPSS+ODAK+%E2%80%94+App+Store+ve+Google+Play'de;.NET+9+%2B+React+Native+%2B+SQL+Server;Veri+bilimi+ve+makine+%C3%B6%C4%9Frenmesi;Yapay+zek%C3%A2+destekli+otomasyon" alt="intro" />
 </p>
 
 <p align="center">
   <a href="https://kursatbesiktepe.com.tr/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/keminbesiktepe"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=14B8A6" alt="LinkedIn" /></a>
   <a href="mailto:kursat.besiktepe@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=14B8A6" alt="Email" /></a>
-  <a href="https://www.instagram.com/kpssodakapp/"><img src="https://img.shields.io/badge/@kpssodakapp-0F172A?style=for-the-badge&logo=instagram&logoColor=14B8A6" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <a href="#-about">🇺🇸 English</a> &nbsp;•&nbsp; <a href="#-türkçe">🇹🇷 Türkçe</a>
+  <a href="#-türkçe">🇹🇷 Türkçe</a> &nbsp;•&nbsp; <a href="#-english">🇺🇸 English</a>
 </p>
 
 ---
 
-## 🧪 About
+## 🇹🇷 Türkçe
 
-```r
-> kursat <- read_profile("github.com/keminbtepe")
-> summary(kursat)
+### 🚀 Projelerim
 
-  role         AI automation & software developer
-  degree       B.Sc. Statistics & Computer Science  — Sivas Cumhuriyet Univ.
-               A.Sc. Computer Programming           — Tekirdağ Namık Kemal Univ.
-  based_in     İstanbul, Türkiye  (office / hybrid / remote)
-  shipped      KPSS ODAK — iOS, Android & web, live on both stores
-  builds_with  .NET 9 · React Native · SQL Server · Python ML pipelines
-  pairs_with   Codex · Claude · Antigravity · DeepSeek · GLM · MCP agents
-  rule         nothing reaches production untested
+| Proje | Tarih | Teknolojiler | Açıklama |
+| :--- | :---: | :--- | :--- |
+| **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell · WPF | Büyük dosyaları tespit edip disk alanı kazandıran Windows disk analiz aracı. |
+| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | React Native · .NET 9 · SQL Server | App Store ve Google Play'de yayında olan sınav hazırlık platformu ve web yönetim paneli. |
+| **[💬 Romeris](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr)** | 2026 | ASP.NET Core 8 · SignalR · MySQL · Expo | Anlık mesajlaşmalı sosyal ve canlı etkinlik platformu. [App Store](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr) · [Web](https://romeris.runasp.net/) |
+| **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026&#8209;04&#8209;18 | SQL Server · Python · XGBoost | SQL Server ETL ve makine öğrenmesiyle kredi temerrüt tahmini, %91 doğruluk. |
+| **[🏢 Site Yönetim Sistemi](https://github.com/keminbtepe/HousingEstateManagement)** | 2026&#8209;03&#8209;17 | .NET 9 Web API · React 19 · TypeScript | Aidat ve finans süreçlerini zamanlanmış görevlerle otomatikleştiren site yönetimi. |
+| **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026&#8209;02&#8209;14 | SPSS · G*Power | Korelasyon, regresyon ve faktör analiziyle istatistiksel modelleme. |
+| **[🐍 PyCharmN](https://github.com/keminbtepe/PyCharmN)** | 2025&#8209;10&#8209;12 | Python | Python programlama çalışmaları. |
+| **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | 2025&#8209;09&#8209;22 | T-SQL | JOIN, fonksiyon, stored procedure, trigger ve transaction örnekleri. |
+| **[📓 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | 2025&#8209;09&#8209;10 | Python · Jupyter | Veri analizi, algoritma ve istatistik çalışmaları. |
+| **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024&#8209;12&#8209;12 | ASP.NET Core MVC · EF Core | Yönetim paneli ve satış analizi içeren katmanlı mimaride e-ticaret sistemi. |
+| **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020&#8209;02&#8209;14 | C# · SQL Server | Skor ve seviye takipli kelime tahmin oyunu. |
+| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019&#8209;05&#8209;15 | C# · SQL Server | Sefer yönetimi, koltuk seçimi ve bilet satış otomasyonu. |
 
-> cor(automation, free_time)
-[1] 0.91
-```
+<details>
+<summary><b>📚 Öne çıkan proje: KPSS ODAK</b></summary>
+<br/>
 
----
+KPSS adayları, eğitmenler ve yöneticiler için mobil ve web istemcili sınav hazırlık platformu. App Store ve Google Play'de yayında.
 
-## 📚 Spotlight · KPSS ODAK
+- ASP.NET Core Web API, Clean Architecture, 33 controller ve 232 rota
+- Apple ve Google abonelik bildirimleri için imza doğrulamalı, idempotent webhook altyapısı
+- PDF'lerden 1.500+ sorunun yapay zekâ destekli ayıklanması, çözümü ve çapraz kontrolü
+- Expo SDK 57 mobil uygulama: çevrimdışı önbellek, çalışma serisi, liderlik tablosu, hata havuzu
+- React 19 yönetim paneli: müfredat, soru bankası, abonelik, gelir analitiği ve denetim kaydı
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-An end-to-end exam-prep ecosystem for KPSS candidates, instructors and admins — **live on the App Store and Google Play**. I built the mobile app, the backend, the admin panel, the data-import tooling and ran the social media growth.
-
-- **API** — ASP.NET Core Web API on Clean Architecture: 33 controllers, 232 routes, one `Result` contract
-- **Payments** — Apple & Google subscription webhooks, signature-verified and idempotent
-- **AI importer** — 1,500+ questions pulled from PDFs, solved and cross-checked by Gemini / DeepSeek / GLM
-- **Mobile** — Expo SDK 57, offline SQLite cache, streaks & freeze, leaderboards, mistake review
-- **Growth** — ~1M Instagram profile views with AI-generated video (Veo 3.1, Higgsfield)
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<a href="https://kpssodak.runasp.net/"><img src="https://img.shields.io/badge/Live%20site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" alt="Live site" /></a><br/>
-<a href="https://github.com/keminbtepe/KPSS-ODAK"><img src="https://img.shields.io/badge/Docs%20repo-0F172A?style=for-the-badge&logo=github&logoColor=14B8A6" alt="Docs" /></a><br/>
+<a href="https://kpssodak.runasp.net/"><img src="https://img.shields.io/badge/Web%20sitesi-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" alt="Web sitesi" /></a>
+<a href="https://github.com/keminbtepe/KPSS-ODAK"><img src="https://img.shields.io/badge/Dok%C3%BCmantasyon-0F172A?style=for-the-badge&logo=github&logoColor=14B8A6" alt="Dokümantasyon" /></a>
 <a href="https://www.instagram.com/kpssodakapp/"><img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=14B8A6" alt="Instagram" /></a>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,tailwind,vite,sentry&perline=4&theme=dark" alt="KPSS ODAK stack" />
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 🧰 Tech Stack
+## 🇺🇸 English
+
+### 🚀 Projects
+
+| Project | Date | Stack | Description |
+| :--- | :---: | :--- | :--- |
+| **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell · WPF | Windows disk-usage analyzer that identifies large files and reclaims space. |
+| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | React Native · .NET 9 · SQL Server | Exam-prep platform live on App Store & Google Play, with a web admin panel. |
+| **[💬 Romeris](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr)** | 2026 | ASP.NET Core 8 · SignalR · MySQL · Expo | Social and live-event platform with real-time messaging. [App Store](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr) · [Web](https://romeris.runasp.net/) |
+| **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026&#8209;04&#8209;18 | SQL Server · Python · XGBoost | End-to-end ETL and ML loan-default prediction with 91% accuracy. |
+| **[🏢 Housing Estate Management](https://github.com/keminbtepe/HousingEstateManagement)** | 2026&#8209;03&#8209;17 | .NET 9 Web API · React 19 · TypeScript | Estate management with scheduled jobs for dues and finance. |
+| **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026&#8209;02&#8209;14 | SPSS · G*Power | Statistical modeling with correlation, regression and factor analysis. |
+| **[🐍 PyCharmN](https://github.com/keminbtepe/PyCharmN)** | 2025&#8209;10&#8209;12 | Python | Python programming exercises. |
+| **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | 2025&#8209;09&#8209;22 | T-SQL | Joins, functions, stored procedures, triggers and transactions. |
+| **[📓 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | 2025&#8209;09&#8209;10 | Python · Jupyter | Data analysis, algorithms and statistics scripts. |
+| **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024&#8209;12&#8209;12 | ASP.NET Core MVC · EF Core | N-tier e-commerce system with admin panel and sales analytics. |
+| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020&#8209;02&#8209;14 | C# · SQL Server | Word-guessing game with score and level tracking. |
+| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019&#8209;05&#8209;15 | C# · SQL Server | Trip management, seat selection and ticketing. |
+
+<details>
+<summary><b>📚 Featured project: KPSS ODAK</b></summary>
+<br/>
+
+A mobile and web exam-prep platform for KPSS candidates, instructors and administrators. Live on the App Store and Google Play.
+
+- ASP.NET Core Web API on Clean Architecture with 33 controllers and 232 routes
+- Signature-verified, idempotent webhooks for Apple and Google subscriptions
+- AI-assisted extraction, solving and cross-checking of 1,500+ questions from PDFs
+- Expo SDK 57 mobile app with offline cache, streaks, leaderboards and mistake review
+- React 19 admin panel for curriculum, question bank, subscriptions, revenue and audit logs
+
+<a href="https://kpssodak.runasp.net/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=14B8A6" alt="Website" /></a>
+<a href="https://github.com/keminbtepe/KPSS-ODAK"><img src="https://img.shields.io/badge/Docs-0F172A?style=for-the-badge&logo=github&logoColor=14B8A6" alt="Docs" /></a>
+<a href="https://www.instagram.com/kpssodakapp/"><img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=14B8A6" alt="Instagram" /></a>
+
+</details>
+
+---
+
+## 🧰 Teknolojiler / Tech Stack
+
+<details>
+<summary><b>Listeyi aç / Show the list</b></summary>
+<br/>
 
 <table>
 <tr>
@@ -86,7 +115,6 @@ An end-to-end exam-prep ecosystem for KPSS candidates, instructors and admins �
 <img src="https://img.shields.io/badge/Copilot%20CLI-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=14B8A6" alt="Copilot CLI" />
 <img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logo=modelcontextprotocol&logoColor=14B8A6" alt="MCP" />
 <img src="https://img.shields.io/badge/Sub--agent%20orchestration-0F172A?style=for-the-badge" alt="Sub-agent orchestration" />
-<img src="https://img.shields.io/badge/Prompt%20engineering-0F172A?style=for-the-badge" alt="Prompt engineering" />
 <img src="https://img.shields.io/badge/LLM%20integrations-0F172A?style=for-the-badge" alt="LLM integrations" />
 <img src="https://img.shields.io/badge/Veo%203.1-0F172A?style=for-the-badge" alt="Veo 3.1" />
 <img src="https://img.shields.io/badge/Higgsfield-0F172A?style=for-the-badge" alt="Higgsfield" /></td>
@@ -144,28 +172,11 @@ An end-to-end exam-prep ecosystem for KPSS candidates, instructors and admins �
 </tr>
 </table>
 
----
-
-## 🚀 Projects
-
-| Project | Date | Stack | Description |
-| :--- | :---: | :--- | :--- |
-| **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell · WPF | Windows disk-usage analyzer that finds the files eating your space. |
-| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | React Native · .NET 9 · SQL Server | Exam-prep platform live on App Store & Google Play, with web admin panel. |
-| **[💬 Romeris](https://romeris.runasp.net/)** | 2026 · beta | ASP.NET Core 8 · SignalR · MySQL · Expo | Social & live-event platform with real-time chat; co-developed with Burak Kansu. |
-| **[🏦 Credit Risk Scoring System](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026&#8209;04&#8209;18 | SQL Server · Python · XGBoost | End-to-end ETL + ML loan-default prediction, 91% accuracy. |
-| **[🏢 Housing Estate Management](https://github.com/keminbtepe/HousingEstateManagement)** | 2026&#8209;03&#8209;17 | .NET 9 Web API · React 19 · TS | Site & building management with scheduled jobs for dues and finance. |
-| **[📊 Digital Hoarding Analysis](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026&#8209;02&#8209;14 | SPSS · G*Power | Correlation, regression and factor analysis of students' digital hoarding. |
-| **[🐍 PyCharmN](https://github.com/keminbtepe/PyCharmN)** | 2025&#8209;10&#8209;12 | Python | Python programming exercises built in PyCharm. |
-| **[🗄️ T-SQL Practice Exercises](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | 2025&#8209;09&#8209;22 | T-SQL | Joins, functions, stored procedures, triggers and transactions. |
-| **[📓 Python Working Code](https://github.com/keminbtepe/Python-Working-Code)** | 2025&#8209;09&#8209;10 | Python · Jupyter | Data-analysis experiments, algorithms and statistics scripts. |
-| **[🛒 ORAGE: E-Commerce & Analysis](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024&#8209;12&#8209;12 | ASP.NET Core MVC · EF Core | N-tier e-commerce with admin panel and sales analytics. |
-| **[🪙 Bilcoin Riddle Automation](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020&#8209;02&#8209;14 | C# · SQL Server | Word-guessing game with score and level tracking. |
-| **[🚌 Bus Ticket Automation](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019&#8209;05&#8209;15 | C# · SQL Server | Trip management, seat selection and ticketing on 6 relational tables. |
+</details>
 
 ---
 
-## 📈 Activity
+## 📈 GitHub Aktivitem / Activity
 
 <p align="center">
   <a href="https://github.com/keminbtepe?tab=overview">
@@ -176,48 +187,6 @@ An end-to-end exam-prep ecosystem for KPSS candidates, instructors and admins �
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=keminbtepe&background=0F172A&ring=14B8A6&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=64748B&stroke=1E293B&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
-
----
-
-## 🇹🇷 Türkçe
-
-<details>
-<summary><b>Türkçe özet ve projeler için tıklayın</b></summary>
-<br/>
-
-```r
-> summary(kursat)
-
-  rol          AI otomasyon ve yazılım geliştirici
-  eğitim       İstatistik ve Bilgisayar Bilimleri (Lisans) — Sivas Cumhuriyet Üni.
-               Bilgisayar Programcılığı (Ön Lisans)      — Tekirdağ Namık Kemal Üni.
-  konum        İstanbul, Türkiye  (ofis / hibrit / uzaktan)
-  yayında      KPSS ODAK — App Store ve Google Play'de
-  stack        .NET 9 · React Native · SQL Server · Python ile ML
-  ai_akışı     Codex · Claude · Antigravity · DeepSeek · GLM · MCP ajanları
-  kural        test edilmeyen hiçbir şey canlıya çıkmaz
-```
-
-Tekrar eden işleri elle yapmak yerine hızlı, kontrollü ve otomatik hâle getirmeyi seviyorum. KPSS ODAK'ta mobil uygulamayı, .NET arka yüzü, yönetim panelini, yapay zekâ destekli soru yükleme aracını ve sosyal medya büyümesini birlikte yürüttüm.
-
-| Proje | Tarih | Açıklama |
-| :--- | :---: | :--- |
-| **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell ve WPF ile Windows disk kullanım analiz aracı. |
-| **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | App Store ve Google Play'de yayında sınav hazırlık platformu ve web yönetim paneli. |
-| **[💬 Romeris](https://romeris.runasp.net/)** | 2026 · test | SignalR ile anlık mesajlaşmalı sosyal ve canlı etkinlik platformu (Burak Kansu ile ortak). |
-| **[🏦 Kredi Risk Skorlama Sistemi](https://github.com/keminbtepe/Credit-Risk-Score)** | 2026&#8209;04&#8209;18 | SQL Server ETL + Python ML ile kredi temerrüt tahmini, %91 doğruluk. |
-| **[🏢 Site Yönetim Sistemi](https://github.com/keminbtepe/HousingEstateManagement)** | 2026&#8209;03&#8209;17 | .NET 9 + React 19 ile aidat ve finans süreçlerini otomatikleştiren site yönetimi. |
-| **[📊 Dijital İstifçilik Analizi](https://github.com/keminbtepe/Digital-Hoarding-Analysis)** | 2026&#8209;02&#8209;14 | SPSS ile korelasyon, regresyon ve faktör analizi. |
-| **[🐍 PyCharmN](https://github.com/keminbtepe/PyCharmN)** | 2025&#8209;10&#8209;12 | PyCharm'da hazırlanan Python çalışmaları. |
-| **[🗄️ T-SQL Pratik Egzersizler](https://github.com/keminbtepe/T-SQL-Practice-Exercises)** | 2025&#8209;09&#8209;22 | JOIN, fonksiyon, stored procedure, trigger ve transaction pratikleri. |
-| **[📓 Python Çalışma Kodları](https://github.com/keminbtepe/Python-Working-Code)** | 2025&#8209;09&#8209;10 | Veri analizi denemeleri, algoritmalar ve istatistik betikleri. |
-| **[🛒 ORAGE: E-Ticaret ve Analiz](https://github.com/keminbtepe/e-Orage-Commerce-Website)** | 2024&#8209;12&#8209;12 | ASP.NET Core MVC ve EF Core ile yönetim panelli e-ticaret sistemi. |
-| **[🪙 Bilcoin Bilmece Otomasyonu](https://github.com/keminbtepe/Bilcoin-Bilmece-Otomasyonu)** | 2020&#8209;02&#8209;14 | C# ve SQL ile skor ve seviye takipli kelime tahmin oyunu. |
-| **[🚌 Otobüs Bilet Otomasyonu](https://github.com/keminbtepe/Otobus-Bilet-Otomasyonu)** | 2019&#8209;05&#8209;15 | C# ve SQL Server ile sefer, koltuk seçimi ve bilet otomasyonu. |
-
-</details>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keminbtepe&style=flat-square&label=profile+views&color=14B8A6&labelColor=0F172A" alt="Profile views" />

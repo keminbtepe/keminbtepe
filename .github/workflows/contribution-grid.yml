@@ -2,7 +2,7 @@ name: Contribution grid
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,12 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate teal contribution grid
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/contribution-grid.svg?color_snake=#38BDF8&color_dots=#1E293B,#134E4A,#0F766E,#14B8A6,#5EEAD4&color_dot_border=#0F172A
+          python-version: "3.12"
+
+      - name: Render contribution grid
+        run: python .github/scripts/contribution_grid.py "${{ github.repository_owner }}" dist/contribution-grid.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
