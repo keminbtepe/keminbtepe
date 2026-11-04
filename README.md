@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=KPSS+ODAK+%E2%80%94+App+Store+ve+Google+Play'de;.NET+9+%2B+React+Native+%2B+SQL+Server;Veri+bilimi+ve+makine+%C3%B6%C4%9Frenmesi;Yapay+zek%C3%A2+destekli+otomasyon" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=520&lines=Yaz%C4%B1l%C4%B1m+geli%C5%9Ftirme;Veri+analizi+ve+istatistik;Web%2C+mobil+ve+masa%C3%BCst%C3%BC+uygulamalar;Veritaban%C4%B1+ve+veri+m%C3%BChendisli%C4%9Fi" alt="intro" />
 </p>
 
 <p align="center">
