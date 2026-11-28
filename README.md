@@ -23,6 +23,7 @@
 
 | Proje | Tarih | Teknolojiler | Açıklama |
 | :--- | :---: | :--- | :--- |
+| **[🧾 NalburPOS](https://github.com/keminbtepe/nalburpos-tanitim)** | 2026&#8209;11&#8209;23 | React · TypeScript · Tailwind CSS · Node.js | Nalbur ve yapı marketler için dokunmatik kasa, stok ve veresiye sistemi; barkod ve fiş yazıcı destekli, internetsiz çalışır. |
 | **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell · WPF | Büyük dosyaları tespit edip disk alanı kazandıran Windows disk analiz aracı. |
 | **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | React Native · .NET 9 · SQL Server | App Store ve Google Play'de yayında olan sınav hazırlık platformu ve web yönetim paneli. |
 | **[💬 Romeris](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr)** | 2026 | ASP.NET Core 8 · SignalR · MySQL · Expo | Anlık mesajlaşmalı sosyal ve canlı etkinlik platformu. [App Store](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr) · [Web](https://romeris.runasp.net/) |
@@ -62,6 +63,7 @@ KPSS adayları, eğitmenler ve yöneticiler için mobil ve web istemcili sınav 
 
 | Project | Date | Stack | Description |
 | :--- | :---: | :--- | :--- |
+| **[🧾 NalburPOS](https://github.com/keminbtepe/nalburpos-tanitim)** | 2026&#8209;11&#8209;23 | React · TypeScript · Tailwind CSS · Node.js | Offline-capable touchscreen POS for hardware stores with stock, customer credit, barcode and receipt printer support. |
 | **[🧹 DiskLens](https://github.com/keminbtepe/DiskLens)** | 2026&#8209;10&#8209;30 | PowerShell · WPF | Windows disk-usage analyzer that identifies large files and reclaims space. |
 | **[📚 KPSS ODAK](https://github.com/keminbtepe/KPSS-ODAK)** | 2026&#8209;10&#8209;14 | React Native · .NET 9 · SQL Server | Exam-prep platform live on App Store & Google Play, with a web admin panel. |
 | **[💬 Romeris](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr)** | 2026 | ASP.NET Core 8 · SignalR · MySQL · Expo | Social and live-event platform with real-time messaging. [App Store](https://apps.apple.com/tr/app/romeris/id6818265369?l=tr) · [Web](https://romeris.runasp.net/) |
@@ -83,7 +85,7 @@ A mobile and web exam-prep platform for KPSS candidates, instructors and adminis
 
 - ASP.NET Core Web API on Clean Architecture with 33 controllers and 232 routes
 - Signature-verified, idempotent webhooks for Apple and Google subscriptions
-- AI-assisted extraction, solving and cross-checking of 1,500+ questions from PDFs
+- AI-assisted extraction, solving and cross-checking of 5,000+ questions from PDFs
 - Expo SDK 57 mobile app with offline cache, streaks, leaderboards and mistake review
 - React 19 admin panel for curriculum, question bank, subscriptions, revenue and audit logs
 
